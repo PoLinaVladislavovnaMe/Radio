@@ -3,8 +3,6 @@ package ru.netology.domain;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 
-import static org.junit.jupiter.api.Assertions.assertNull;
-
 public class RadioTest {
     Radio radio = new Radio();
 
